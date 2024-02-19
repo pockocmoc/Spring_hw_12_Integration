@@ -61,7 +61,7 @@ API для управления задачами в Task Manager.
 
 **Параметры:**
 
-- status - статус задачи (возможные значения: TODO, IN_PROGRESS, DONE)
+- status - статус задачи (возможные значения: NOT_STARTED, IN_PROGRESS, COMPLETED)
 
 **Ответ:**
 
